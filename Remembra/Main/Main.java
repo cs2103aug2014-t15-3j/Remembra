@@ -14,6 +14,9 @@ public class Main {
 
 	public static void main(String[] args) {
 
+
+		//Hi Sam, Sankalp I know its a little wordy but it'll really help :) - Chuan Wei :)
+		
 		//For this tutorial, I'll just use LogicMain.java and StorageMain.java for a simple
 		//run through on how would the different components from our architecture calls each other
 		
